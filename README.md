@@ -11,6 +11,8 @@ Initially the car was designed to have a Camera and Microphone within its arsena
 
 However the Car overall was fun to play with and work on with both the software side and hardware side.
 
+Video of the car in action and explanation:  https://www.youtube.com/watch?v=zTIzrPrv4cc
+
  **Features:** <br/>
  Bluetooth Remote Control <br/>
  2 Wheel Drive Steering <br/>
